@@ -89,4 +89,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [PyPDF2](https://pypi.org/project/PyPDF2/)
 - [dotenv](https://pypi.org/project/python-dotenv/)
 
-For any questions or feedback, please reach out!
+## Contact
+
+For any questions or issues, please contact:
+
+- **Email**: shukdevdatta@gmail.com
+- **GitHub**: [Click to here to access the Github Profile](https://github.com/shukdevtroy)
+- **WhatsApp**: [Click here to chat](https://wa.me/+8801719296601)
