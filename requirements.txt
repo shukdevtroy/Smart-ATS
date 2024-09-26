@@ -1,0 +1,6 @@
+streamlit
+openai==0.28
+PyPDF2
+python-dotenv
+numpy
+pandas
